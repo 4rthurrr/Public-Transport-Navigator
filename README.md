@@ -1,5 +1,5 @@
 
-# 🌐 Public Transport Navigator 🚍🚉 (ITPM proj)
+# 🌐 Public Transport Navigator 🚍🚉 (ITPM Proj)
 
 An interactive web application for mapping and optimizing Sri Lanka’s public transport system. Simplify your travel by exploring bus and train routes, real-time updates, and fare estimations—all in one place!
 
