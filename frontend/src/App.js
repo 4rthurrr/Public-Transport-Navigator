@@ -131,7 +131,9 @@ function App() {
           
         }}>Add Bus</button>
       </div>
+      <div><h1>Bus List</h1></div>
       <div className="main_right">
+        
         {mydata?.map(
           ({ imageUrl, bNumber, bRoute, bName, bModel, bCapacity }) => (
             <Unit 
